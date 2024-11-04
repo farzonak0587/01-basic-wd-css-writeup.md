@@ -23,6 +23,7 @@ Though a little advanced, we are still in the basic web design class, where we m
    
 
 #### Process: 
+Similar to how I learned about HTML, I learnt CSS by first going over the first few [Free Code Camp](https://freecodecamp.org/) lessons.The first few lessons covered the basics, including `colors`, `fonts`, `boders`, `sizes`, and other elements. We were required to create a [CSS Make Something]([https://freecodecamp.org/](https://app.pickcode.io/project/cm2m6o8x07znlpuunw5afu306)) similar to the "HTML Make Something" in order to further our understanding and practice of the essentials. All I did was add CSS to my HTML project. 
 
 
 ### Challenge 1
