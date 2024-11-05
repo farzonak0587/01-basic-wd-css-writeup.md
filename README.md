@@ -85,6 +85,13 @@ and
   padding: 10px;
 }
 ```
+Not a single `id` that I can recall using in the code. However, I was reviewing the FCC classes to check if I had missed anything after completing the entire challenge and submitting. I discovered that every property served a different purpose. For instance, if I add a `id` attribute, it takes over  the `class` attribute that was the initial one. 
+
+```HTML
+<h1 class="pink-text blue-text" id="orange-text">Hello World!</h1>
+```
+
+Here the color of ``` <h1> Hello World!</h1> ``` would've been organge becasue it takes over the class. If there was no `id` The `class` would've been the main atrributee and the color of ``` <h1> Hello World!</h1> ``` would'vee been blue. 
 
 
 ### Takeaways
