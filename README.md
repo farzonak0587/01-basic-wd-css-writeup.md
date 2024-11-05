@@ -91,8 +91,9 @@ Not a single `id` that I can recall using in the code. However, I was reviewing 
 <h1 class="pink-text blue-text" id="orange-text">Hello World!</h1>
 ```
 
-Here the color of ``` <h1> Hello World!</h1> ``` would've been organge becasue it takes over the class. If there was no `id` The `class` would've been the main atrributee and the color of ``` <h1> Hello World!</h1> ``` would'vee been blue. 
+Here the color of ``` <h1> Hello World!</h1> ``` would've been organge becasue it takes over the class. If there was no `id` The `class` would've been the main atrributee and the color of ``` <h1> Hello World!</h1> ``` would've been blue. 
 
+The order of the atrributee: **CLASS, ID, INLINE, IMPORTANT**
 
 ### Takeaways
 The things I really need to remember are: 
