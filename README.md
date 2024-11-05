@@ -6,7 +6,7 @@
 ## Concept: CSS
 
 ### Section: Context 
-Though a little advanced, we are still in the basic web design class, where we may chage the colors, add borders, change backgrounds,change fonts, use hex and rbg codes, and more. It is an overview of coding style. I was somewhat familiar with CSS since we learned about it last year as well, but the new kinds of styles that were new to us confused me a little. 
+Though a little advanced, we are still in the basic web design class, where we may change the colors, add borders, change backgrounds, change fonts, use hex and rbg codes, and more. It is an overview of coding style. I was somewhat familiar with CSS since we learned about it last year as well, but the new kinds of styles that were new to us confused me a little. 
 
 #### Basics I learned: 
 * `color: red;`changes color to red 
@@ -23,7 +23,8 @@ Though a little advanced, we are still in the basic web design class, where we m
    
 
 #### Process: 
-Similar to how I learned about HTML, I learnt CSS by first going over the first few [Free Code Camp](https://freecodecamp.org/) lessons.The first few lessons covered the basics, including `colors`, `fonts`, `boders`, `sizes`, and other elements. We were required to create a [CSS Make Something](https://app.pickcode.io/project/cm2m6o8x07znlpuunw5afu306) similar to the "HTML Make Something" in order to further our understanding and practice of the essentials. All I did was add CSS to my HTML project becasue we were allowed to do that, I also didnt want to do more work. After that, we spent the entire class period learning about selectors and how to use them to make the selection process easier. For example, rather than selecting each item individually, we have to use particular selectors to choose the items that we want to be a specific color,font etc. 
+
+Similar to how I learned about HTML, I learned CSS by first going over the first few [Free Code Camp](https://freecodecamp.org/) lessons. The first few lessons covered the basics, including `colors`, `fonts`, `boders`, `sizes`, and other elements. We were required to create a [CSS Make Something](https://app.pickcode.io/project/cm2m6o8x07znlpuunw5afu306) similar to the "HTML Make Something" in order to further our understanding and practice of the essentials. All I did was add CSS to my HTML project because we were allowed to do that. I also didn't want to do more work. After that, we spent the entire class period learning about selectors and how to use them to make the selection process easier. For example, rather than selecting each item individually, we have to use particular selectors to choose the items that we want to be a specific color, font etc. 
 
 After that, we returned to FCC to learn the remaining CSS, such as the box outline, which includes margins and padding. We discovered how to use the `paddings` and `margins` to align items and make them appear more neater. Thats where I struggled a bit with. Hex codes and RGB were the last things we learned in the FCC. They were used to represent particular color types. In basic terms, we were using letters and numbers rather than the actual names of the colors. After that, we took a quiz, and I received a 9 out of 10. The question about margins and paddings was the only one I answered incorrectly. We were expected to complete a CSS challenge with our partners on the same day. Because my partner and I didn't want it to be too easy or too hard, we chose the tougher level out of the three that were available to us: tough, tougher, and toughest. 
 
@@ -52,7 +53,7 @@ Although it wasn't primarily centered around CSS, I had another challenge. Since
 The notes I took were the only thing that got me through my difficulties. My notes were the main resource that helped me comprehend and remember what was taught, despite the fact that I kept zoning out.  
 
 ### Challenge 3
-`classes` and `ids` were the last things I had trouble with. I had trouble understanding this in HTML, and even after learning how to utilize it and its purpose, I was still unsure of the difference between `classes` and `ids`.  I seem to recall learning this once, but I was unsure of the exact lesson and didn't give it much thought until I was in need of it. When I was doing the [CSS Chocolate Challenge](https://app.pickcode.io/project/cm2w6obbyjpkzxvnyod1dzgjx), I needed it.
+`classes` and `ids` were the last things I had trouble with. I had trouble understanding this in HTML, and even after learning how to use it and its purpose, I was still unsure of the difference between `classes` and `ids`.  I seem to recall learning this once, but I was unsure of the exact lesson and didn't give it much thought until I was in need of it. When I was doing the [CSS Chocolate Challenge](https://app.pickcode.io/project/cm2w6obbyjpkzxvnyod1dzgjx), I needed it.
 
 Although I was aware that it required the class attributes, I used `classes` for the challenge alone since I believed that `classes` and `ids` were identical and performed the same function. 
 
