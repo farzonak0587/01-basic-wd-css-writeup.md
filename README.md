@@ -59,10 +59,33 @@ Although I was aware that it required the class attributes, I used `classes` for
 When I used `classes` for the challnege: 
 
 ```HTML
-<div  class="white">
- <h2>White Chocolate</h2>
+<div class="white">
+ <h2> White Chocolate </h2>
 <img src="https://raw.githubusercontent.com/hstatsep-wd/other/refs/heads/main/chocolate/img/white.jpg" img class="below-image">
 ```
+```CSS
+.white { 
+    background-color:wheat;
+    margin: 25px;
+  padding: 10px;
+}
+```
+
+and 
+
+```HTML
+<div class="milk">
+<h2> Milk Chocolate </h2>
+ <img src="https://raw.githubusercontent.com/hstatsep-wd/other/refs/heads/main/chocolate/img/milk.jpg" img class="below-image">>
+```
+```CSS
+.milk { 
+    background-color:chocolate;
+    margin: 25px;
+  padding: 10px;
+}
+```
+
 
 ### Takeaways
 The things I really need to remember are: 
