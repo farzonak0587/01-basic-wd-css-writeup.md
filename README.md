@@ -36,7 +36,7 @@ The question of the quiz was "What is `margin`?"
 
 The choices were: 
 
-```CSS
+```HTML
 * The space between a declaration and the associated border 
 * The space between a class and an element's border
 * The space between an element's border and the surrounding elements
@@ -44,13 +44,25 @@ The choices were:
 ```
 I chose ```* The space between a declaration and the associated border ``` but the correct answer was ``` * The space between an element's border and the surrounding elements ```
 
-
-
+When I saw the question, my mind truly went blank, and I was at a loss for what to do, so I went with that response. Though I didn't recall it being the space between the border and the other elements, I did recall that the margin had something to do with the border while I was thinking. Since the answer I chose was the only response that appeared different from the others, I became so trapped that I simply chose the one I believed it to be. 
 
 ### Challenge 2
+Although it wasn't primarily centered around CSS, I had another challenge. Since I had gone over all of this the previous year, I found it quite difficult to concentrate and quickly became bored when we began learning CSS. This continued until we reached the topics we still didn't understand, at which time I became genuinely perplexed and lost motivation to accomplish things. 
 
+The notes I took were the only thing that got me through my difficulties. My notes were the main resource that helped me comprehend and remember what was taught, despite the fact that I kept zoning out.  
 
 ### Challenge 3
+`classes` and `ids` were the last things I had trouble with. I had trouble understanding this in HTML, and even after learning how to utilize it and its purpose, I was still unsure of the difference between `classes` and `ids`.  I seem to recall learning this once, but I was unsure of the exact lesson and didn't give it much thought until I was in need of it. When I was doing the [CSS Chocolate Challenge](https://app.pickcode.io/project/cm2w6obbyjpkzxvnyod1dzgjx), I needed it.
+
+Although I was aware that it required the class attributes, I used `classes` for the challenge alone since I believed that `classes` and `ids` were identical and performed the same function. 
+
+When I used `classes` for the challnege: 
+
+```HTML
+<div  class="white">
+ <h2>White Chocolate</h2>
+<img src="https://raw.githubusercontent.com/hstatsep-wd/other/refs/heads/main/chocolate/img/white.jpg" img class="below-image">
+```
 
 ### Takeaways
 The things I really need to remember are: 
