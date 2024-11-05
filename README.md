@@ -97,5 +97,7 @@ The order of the atrributee: **CLASS, ID, INLINE, IMPORTANT**
 
 ### Takeaways
 The things I really need to remember are: 
-* 
+* `paddings`are on the inside and `margins`are on the outside ( way to not geet confused on which is which) .
+* TRY TO FOCUS IN CLASS ( Get something to motivate you to focus in class)
+* `class` is taken over by `id` is taken over by `inline` and `inline` is taken over by `!important`
 
